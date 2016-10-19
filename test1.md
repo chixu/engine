@@ -1,10 +1,13 @@
 # Layout Preprocessor
 
 * [config](#config)
-* [Keys](#Keys)
+* [Keys](#keys)
 * [context](#context)
-* [if tag](#if tag)
-* [config](#config)
+* [if tag](#if-tag)
+* [for tag](#for-tag)
+* [include tag](#include-tag)
+* [template tag](#template-tag)
+* [placeholder tag](#placeholder-tag)
 
 ## config
 * the processor will first read _commons/config.json
